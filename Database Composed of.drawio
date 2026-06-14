@@ -1,0 +1,59 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Page-1" id="Ki2hTzG3IT_C5roZ16CC">
+    <mxGraphModel dx="1191" dy="694" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MdcKBcyQyXUSNgwyaMl9-9" edge="1" parent="1" source="MdcKBcyQyXUSNgwyaMl9-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;fontFamily=Georgia;fontSize=13;labelBackgroundColor=none;strokeColor=#028090;fontColor=default;labelBorderColor=none;strokeWidth=4;dashed=1;dashPattern=8 8;shadow=1;" target="MdcKBcyQyXUSNgwyaMl9-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MdcKBcyQyXUSNgwyaMl9-1" parent="1" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontFamily=Georgia;fontSize=13;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;labelBorderColor=none;strokeWidth=4;dashed=1;dashPattern=8 8;shadow=1;" value="Relational Database" vertex="1">
+          <mxGeometry height="160" width="120" x="20" y="110" as="geometry" />
+        </mxCell>
+        <mxCell id="MdcKBcyQyXUSNgwyaMl9-2" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Georgia;fontSize=13;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;labelBorderColor=none;strokeWidth=4;dashed=1;dashPattern=8 8;shadow=1;" value="&amp;nbsp;Tables" vertex="1">
+          <mxGeometry height="120" width="170" x="210" y="200" as="geometry" />
+        </mxCell>
+        <mxCell id="MdcKBcyQyXUSNgwyaMl9-3" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Georgia;fontSize=13;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;labelBorderColor=none;strokeWidth=4;dashed=1;dashPattern=8 8;shadow=1;" value="Records / Rows" vertex="1">
+          <mxGeometry height="140" width="195" x="425" y="180" as="geometry" />
+        </mxCell>
+        <mxCell id="MdcKBcyQyXUSNgwyaMl9-4" parent="1" style="shape=step;perimeter=stepPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Georgia;fontSize=13;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;labelBorderColor=none;strokeWidth=4;dashed=1;dashPattern=8 8;shadow=1;" value="Properties /Columns/" vertex="1">
+          <mxGeometry height="140" width="180" x="770" y="190" as="geometry" />
+        </mxCell>
+        <mxCell id="MdcKBcyQyXUSNgwyaMl9-5" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Georgia;fontSize=13;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;labelBorderColor=none;strokeWidth=4;dashed=1;dashPattern=8 8;shadow=1;" value="Stores one type of thing&lt;div&gt;ex. Northwind. products&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;comparable to spreadsheet&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="175" x="210" y="40" as="geometry" />
+        </mxCell>
+        <mxCell id="MdcKBcyQyXUSNgwyaMl9-7" edge="1" parent="1" source="MdcKBcyQyXUSNgwyaMl9-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.091;entryY=0.472;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Georgia;fontSize=13;labelBackgroundColor=none;strokeColor=#028090;fontColor=default;labelBorderColor=none;strokeWidth=4;dashed=1;dashPattern=8 8;shadow=1;" target="MdcKBcyQyXUSNgwyaMl9-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MdcKBcyQyXUSNgwyaMl9-8" edge="1" parent="1" source="MdcKBcyQyXUSNgwyaMl9-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.169;entryY=0.444;entryDx=0;entryDy=0;entryPerimeter=0;fontFamily=Georgia;fontSize=13;labelBackgroundColor=none;strokeColor=#028090;fontColor=default;labelBorderColor=none;strokeWidth=4;dashed=1;dashPattern=8 8;shadow=1;" target="MdcKBcyQyXUSNgwyaMl9-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MdcKBcyQyXUSNgwyaMl9-15" edge="1" parent="1" source="MdcKBcyQyXUSNgwyaMl9-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=none;strokeColor=#028090;fontColor=default;labelBorderColor=none;strokeWidth=4;dashed=1;dashPattern=8 8;shadow=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="700" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MdcKBcyQyXUSNgwyaMl9-10" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=13;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;labelBorderColor=none;strokeWidth=4;dashed=1;dashPattern=8 8;shadow=1;" value="Field / cell&lt;div&gt;&lt;br&gt;&lt;div&gt;the intersection of record and property&lt;/div&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="180" width="160" x="590" y="10" as="geometry" />
+        </mxCell>
+        <mxCell id="MdcKBcyQyXUSNgwyaMl9-13" edge="1" parent="1" source="MdcKBcyQyXUSNgwyaMl9-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Georgia;fontSize=13;labelBackgroundColor=none;strokeColor=#028090;fontColor=default;labelBorderColor=none;strokeWidth=4;dashed=1;dashPattern=8 8;shadow=1;">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="190" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MdcKBcyQyXUSNgwyaMl9-12" parent="1" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Georgia;fontSize=13;labelBackgroundColor=none;fillColor=#F45B69;strokeColor=#028090;fontColor=#E4FDE1;labelBorderColor=none;strokeWidth=4;dashed=1;dashPattern=8 8;shadow=1;" value="Entity / Concept&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;entire theme of the table&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;+Added during&lt;/div&gt;&lt;div&gt;&amp;nbsp;Design phase&lt;/div&gt;" vertex="1">
+          <mxGeometry height="230" width="200" x="70" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="MdcKBcyQyXUSNgwyaMl9-14" parent="1" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;fontFamily=Georgia;fontSize=13;labelBackgroundColor=none;labelBorderColor=none;strokeWidth=4;dashed=1;dashPattern=8 8;shadow=1;fillColor=#fff2cc;strokeColor=#d6b656;" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Vocabulary&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;Normalization&lt;div&gt;Primary Key&lt;/div&gt;&lt;div&gt;Foreign Key&lt;/div&gt;&lt;div&gt;CRUD&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;Statement - read or mutate the database&lt;/div&gt;&lt;div&gt;Collection of clauses that make up full SQL statement&lt;/div&gt;&lt;div&gt;SELECT - Grab columns&lt;/div&gt;&lt;div&gt;FROM - table&lt;/div&gt;&lt;div&gt;Identifiers - columns and table names&lt;/div&gt;&lt;div&gt;WHERE - filter conditions (only include records called)&lt;/div&gt;&lt;div&gt;Predicate -&amp;nbsp; condition evalutaes to truth value: true, False, unkown&lt;/div&gt;&lt;div&gt;JOIN - connects data from Primary and Foreign key&amp;nbsp; using ON&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="260" width="520" x="370" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="MdcKBcyQyXUSNgwyaMl9-16" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Georgia;fontSize=13;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;labelBorderColor=none;strokeWidth=4;dashed=1;dashPattern=8 8;shadow=1;" value="The specific complete object&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;its the horizontal data in table&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="175" x="400" y="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MdcKBcyQyXUSNgwyaMl9-17" parent="1" style="shape=callout;whiteSpace=wrap;html=1;perimeter=calloutPerimeter;fontFamily=Georgia;fontSize=13;labelBackgroundColor=none;fillColor=#fff2cc;strokeColor=#d6b656;labelBorderColor=none;strokeWidth=4;dashed=1;dashPattern=8 8;shadow=1;" value="Vertical blueprint&amp;nbsp;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;its the classes and is vertical&amp;nbsp;&lt;/div&gt;&lt;div&gt;data in table&lt;/div&gt;" vertex="1">
+          <mxGeometry height="150" width="175" x="770" y="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
